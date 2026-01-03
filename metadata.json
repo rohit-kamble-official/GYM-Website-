@@ -1,0 +1,9 @@
+
+{
+  "name": "Maharudraya Fitness Club",
+  "description": "A premium, high-impact gym website for Maharudraya Fitness Club (Pune) featuring online payments, PDF receipt generation, and a smart fitness assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
